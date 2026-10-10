@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [searchwire](https://github.com/LambdaLabsHQ/searchwire-skill) - Real keyword search volume, Google results, and product-name checks (domains, GitHub, npm) via the Searchwire API. Name checks are free; paid data has a daily spending cap per key.
 
 
 ## 🔬 Scientific & Research Tools
